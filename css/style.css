@@ -1,0 +1,58 @@
+/* style.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  line-height: 1.6;
+  color: #333;
+  background-color: #f8f9fa;
+}
+
+.container {
+  width: 90%;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+header {
+  background: #1e1e2f;
+  color: white;
+  padding: 20px 0;
+}
+
+header h1 {
+  margin: 0;
+}
+
+nav {
+  margin-top: 10px;
+}
+
+nav a {
+  color: #ccc;
+  margin-right: 15px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: white;
+}
+
+.hero {
+  background: #e1f5fe;
+  padding: 60px 0;
+  text-align: center;
+}
+
+.about, .services, .contact {
+  background: white;
+  margin: 20px 0;
+  padding: 40px 0;
+}
+
+footer {
+  text-align: center;
+  background: #1e1e2f;
+  color: #ccc;
+  padding: 20px 0;
+}
