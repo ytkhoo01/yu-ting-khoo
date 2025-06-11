@@ -94,3 +94,11 @@ footer {
   text-decoration: underline;
 }
 
+.project-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 12px;
+  object-fit: cover;
+  max-height: 200px;
+}
